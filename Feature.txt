@@ -1,4 +1,4 @@
 This is a text file within a feature branch
 
 
-This line is intended for creating a merge conflict
+This line is intended for creating a merge problem
